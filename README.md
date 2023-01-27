@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Somesh Sahu</h1>
-<h3 align="center">A Tech Enthusiast, working on Data Science, Analytics & Applied Machine Learning.</h3>
+<h3 align="center">A Tech Enthusiast, working on Data Science, Analytics & Applied Machine Learning Projects.</h3>
 <img align="right" alt="Coding" width="400" src"https://media.tenor.com/dda5fEHTrKsAAAAi/niko-transparent.gif">
 
 - 🔭 I’m currently working on **Object Detetion Model**
